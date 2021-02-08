@@ -1,0 +1,14 @@
+C:\Users\Jason\Desktop\JasonAJ VS Data\Custom Programs\SS Typer\SS Typer\bin\Debug\SS Typer.exe.config
+C:\Users\Jason\Desktop\JasonAJ VS Data\Custom Programs\SS Typer\SS Typer\bin\Debug\SS Typer.exe
+C:\Users\Jason\Desktop\JasonAJ VS Data\Custom Programs\SS Typer\SS Typer\bin\Debug\SS Typer.pdb
+C:\Users\Jason\Desktop\JasonAJ VS Data\Custom Programs\SS Typer\SS Typer\obj\Debug\SS Typer.csprojResolveAssemblyReference.cache
+C:\Users\Jason\Desktop\JasonAJ VS Data\Custom Programs\SS Typer\SS Typer\obj\Debug\SS_Typer.FormSSTyper.resources
+C:\Users\Jason\Desktop\JasonAJ VS Data\Custom Programs\SS Typer\SS Typer\obj\Debug\SS_Typer.Properties.Resources.resources
+C:\Users\Jason\Desktop\JasonAJ VS Data\Custom Programs\SS Typer\SS Typer\obj\Debug\SS Typer.csproj.GenerateResource.Cache
+C:\Users\Jason\Desktop\JasonAJ VS Data\Custom Programs\SS Typer\SS Typer\obj\Debug\SS Typer.exe
+C:\Users\Jason\Desktop\JasonAJ VS Data\Custom Programs\SS Typer\SS Typer\obj\Debug\SS Typer.pdb
+C:\Users\Jason\Desktop\JasonAJ VS Data\Custom Programs\SS Typer\SS Typer\obj\Debug\Interop.WMPLib.dll
+C:\Users\Jason\Desktop\JasonAJ VS Data\Custom Programs\SS Typer\SS Typer\obj\Debug\SS Typer.csproj.ResolveComReference.cache
+C:\Users\Jason\Desktop\JasonAJ VS Data\Custom Programs\SS Typer\SS Typer\bin\Debug\Resources\false.wav.wav
+C:\Users\Jason\Desktop\JasonAJ VS Data\Custom Programs\SS Typer\SS Typer\bin\Debug\Resources\true.wav.wav
+C:\Users\Jason\Desktop\JasonAJ VS Data\Custom Programs\SS Typer\SS Typer\bin\Debug\Resources\SC SS.wav
